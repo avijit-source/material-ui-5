@@ -3,7 +3,7 @@
 
 # responsive ui using material ui 5
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+a simple responsive webpage made using material ui version 5 and react js 
 
 ## Available Scripts
 
